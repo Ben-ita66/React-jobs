@@ -8,7 +8,7 @@ Allow employers edit jobs.
 Allow employers delete jobs.
 
 # Live Demo
-[Framework Preset](https://react-jobs-6cxn.vercel.app/)
+https://react-jobs-6cxn.vercel.app/
 
 # Technologies Used
 React: For the structure of the web page and For capturing user input and adding to the api.
